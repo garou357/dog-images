@@ -20,4 +20,11 @@ h1{
 }
 .doggo-button{
     margin: 1rem;
+    padding: 1rem;
+    font-size:medium;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #337ab7;
+    cursor: pointer;
 }
